@@ -75,7 +75,7 @@ Before starting :checkered_flag:, you need to have a Github Account [GitHub Sign
 
 ![Creating the Repo](https://github.com/ruthbacci/openhack-containers-envsetup/blob/main/images/oh-create-repo.tif)
 
-<!-->
+<!--
 ```bash
 # Clone this project
 $ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/openhack-containers-envsetup
