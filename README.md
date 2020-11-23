@@ -60,13 +60,12 @@ The following tools were used in this project:
 
 - [Visual Studio Codespaces](https://expo.io/) OR 
 - [Github Codespaces](https://github.com/codespaces) 
-- [GitHub](https://github.com/)
-- [Github - ](https://pt-br.reactjs.org/)
+
 
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have a Github Account [GitHub Signup](https://github.com/join?).
 
 ## :checkered_flag: Starting ##
 
