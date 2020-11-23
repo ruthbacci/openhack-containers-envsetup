@@ -46,7 +46,9 @@
 
 ## :dart: About ##
 
-Describe your project
+This readme file explains how to get the Source Code repository set up for the Microsoft Containers Hack.  It is mandated that a PRIVATE Github repository is created by a participant in every hack team and all other participants work locally and contribute to this central private repository. 
+
+Each hack particpiant will contribute directly to this repository, rather than clone it.
 
 ## :sparkles: Features ##
 
