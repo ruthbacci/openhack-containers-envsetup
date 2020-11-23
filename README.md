@@ -50,11 +50,11 @@ This readme file explains how to get the Source Code repository set up for the M
 
 Each hack particpiant will contribute directly to this repository, rather than clone it.
 
-## :sparkles: Features ##
+<!--## :sparkles: Features ##
 
 :heavy_check_mark: Feature 1;\
 :heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Feature 3; -->
 
 ## :rocket: Technologies ##
 
