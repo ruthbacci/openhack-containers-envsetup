@@ -128,15 +128,18 @@ Follow the instructions below to setup your Visual Studio Codespace for the Cont
 <img src ="./images/vscslogin.jpg">
 
 <br>
+<br>
 
 2) Once you have entered your credentials click 'Yes' to allow Visual Studio Codespaces to access your account info
 
 <img src ="./images/vscsacctinfo.jpg">
 
 <br>
+<br>
 
 3) Once you have successfully logged into the Codespaces portal, select 'Create Codespace' and when prompted choose the identity that you logged on with. 
 
+<br>
 <br>
 
 4) You will then be prompted to create a Billing Plan.  Leave the Subscription as the default (This creates an App Service Plan in Azure using the Azure Subscription that is associated with the account you have logged on with (if this is your hacker account, you each have access to an Azure Subscription through the duration of the hack - more about that in the hack!) and choose the location nearest to you geographically and Click 'Create'
@@ -144,6 +147,35 @@ Follow the instructions below to setup your Visual Studio Codespace for the Cont
 <img src ="./images/vscsbilling.jpg">
 
 <br>
+<br>
+
+5) Once the billing plan has been established you will be prompted for the Codespace configuration. Provide a name for your Codespace (this can be any name in which you identity your project codespace), and provide the URL for the GitHub repository your team created for the hack above.  Leave the rest as the default and click 'Auth & Create'
+
+<img src ="./images/vscsauthncreate.jpg">
+
+<br>
+<br>
+
+6) When promtped for GitHub credentials, provide the credential that was granted access to the repository you created above (NOTE: It is fine if this is different to the credential you logged on to Codespaces with).  If you are using your own perosnal GitHub account (rather than a hacker account), you maybe promted for two factor authentication (if this has been enabled on your account)
+
+<img src ="./images/vscsghlogin.jpg">
+
+<br>
+<br>
+
+7) Once your Codespace is authenticated to use the provided GitHub repo, Visual Studio Online will begin to create your Code Space - This can take up to 15 mins. 
+
+Once the setup is complete you will see an online version of Visual Studio Code
+
+<img src ="./images/vscs.jpg">
+
+<br>
+<br>
+
+Congratulations - you are now all setup and ready to start the hack - Good Luck! 
+
+
+
 
 <!--
 ```bash
