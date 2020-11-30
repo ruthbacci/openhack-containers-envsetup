@@ -69,7 +69,7 @@ The following tools were used in this project:
 
 Before starting :checkered_flag:, you need to have a Github Account [GitHub Signup](https://github.com/join?).
 
-## :checkered_flag: Starting ##
+## :checkered_flag: Create a new private repo and import the Container Hack Source Code ##
 
 1) Create a new repo.  For the repo name, use 'Teamx-OurContOH' - replacing 'x' with your team number.  
 
