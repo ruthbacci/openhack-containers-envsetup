@@ -69,6 +69,7 @@ The following tools were used in this project:
 
 Before starting :checkered_flag:, you need to have a Github Account [GitHub Signup](https://github.com/join?).
 <br>
+<br>
 
 
 
@@ -84,7 +85,7 @@ Make sure not to check any of the boxes to initiate it and click create.
 
 2) Once the repo has been created, you will see the Quick Setup page, scroll to the bottom and click 'Import Code'
 
-<img src ="./images/importcode.jpg">
+
 
 3) In the field 'Your old repository's clone URL' enter the URL of the Containers Hack Repo : 'https://github.com/Azure-Samples/openhack-containers' and click on 'Begin Import'
 
