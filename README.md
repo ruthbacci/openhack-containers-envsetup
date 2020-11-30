@@ -116,10 +116,26 @@ Repeat step 2 until all the members of your hacker team have been invited to col
 
 ## :computer:  Instructions for Setting Up Visual Studio CodeSpaces ##
 
-The pre-requist for the hack was to 
+The pre-requist for the hack is to ensure that you have access to an environment with AZ CLI; Bash; Docker; Kubectl; Helm & Git.   If you do not have access to environment in which you can run the above tooling when starting the hack then it is best that you opt for using Visual Studio Codespaces.
 
 
-Visual Studio Codespaces provides you with a cloud-powered dev enviroment that you can access from anywhere. If you have not already created an environment / Server in which you can execute the hack challenges from 
+Visual Studio Codespaces provides you with a cloud-powered dev enviroment that you can access from anywhere. Once logged on to Codespaces, it will provide you with an online vresion of Visual Studio Code, from which you can access the repository you created above and all the tools you require.   Visual Studio Codespaces Online will shortly be replaced with GitHub Codespaces.  You can read more here: https://devblogs.microsoft.com/visualstudio/visual-studio-codespaces-is-consolidating-into-github-codespaces/
+
+Follow the instructions below to setup your Visual Studio Codespace for the Containers Hack
+
+1) Navigate to online.visualstudio.com/login.  If you do not have a Visual Studio account, use your hacker credentials (please note if you use your hacker credentials you will lose access to the Codespace at the end of the Hack)
+
+<img src ="./images/vscslogin.jpg">
+
+2) Once you have entered your credentials click 'Yes' to allow Visual Studio Codespaces to access your account info
+
+<img src ="./images/vscsacctinfo.jpg">
+
+3) Once you have successfully logged into the Codespaces portal, select 'Create Codespace' and when prompted choose the identity that you logged on with. 
+
+4) You will then be prompted to create a Billing Plan.  Leave the Subscription as the default (This creates an App Service Plan in Azure using the Azure Subscription that is associated with the account you have logged on with (if this is your hacker account, you each have access to an Azure Subscription through the duration of the hack - more about that in the hack!) and choose the location nearest to you geographically and Click 'Create'
+
+<img src ="./images/vscsbilling.jpg">
 
 <!--
 ```bash
