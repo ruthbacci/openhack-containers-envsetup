@@ -93,7 +93,7 @@ Make sure not to check any of the boxes to initiate it and click create.
 <img src ="./images/ImportCode.jpg">
 <br>
 
-3) In the field 'Your old repository's clone URL' enter the URL of the Containers Hack Repo : 'https://github.com/Azure-Samples/openhack-containers' and click on 'Begin Import'
+3) In the field 'Your old repository's clone URL' enter the URL of the Containers Hack Repo : Your coach will provide you with this and click on 'Begin Import'
 
 <img src ="./images/beginimport.jpg">
 
