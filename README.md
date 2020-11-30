@@ -6,7 +6,7 @@
   <!-- <a href="https://openhackcontainersenvsetup.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Openhack Containers Envsetup</h1>
+<h1 align="center">Openhack Containers Environment Setup</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/ruthbacci/openhack-containers-envsetup?color=56BEB8">
@@ -93,7 +93,9 @@ Make sure not to check any of the boxes to initiate it and click create.
 
 <img src ="./images/beginimport.jpg">
 
+<br>
 
+## :checkered_flag:  Grant your fellow hackers access to the repo ##
 
 <!--
 ```bash
