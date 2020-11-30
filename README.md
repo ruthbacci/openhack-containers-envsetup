@@ -50,6 +50,8 @@ This readme file explains how to get the Source Code repository set up for the M
 
 Each hack particpiant will contribute directly to this repository, rather than clone it.
 
+In addition, if you don't already have an environment setup to execute the hack from, you will find the instructions on how to set up a Visual Studio Codespace to execute all of the hack challenges from. 
+
 <!--## :sparkles: Features ##
 
 :heavy_check_mark: Feature 1;\
@@ -60,8 +62,8 @@ Each hack particpiant will contribute directly to this repository, rather than c
 
 The following tools were used in this project:
 
-- [Visual Studio Codespaces](https://expo.io/) OR 
-- [Github Codespaces](https://github.com/codespaces) 
+- [GitHub](https://github.com/)
+- [Visual Studio Codespaces](https://online.visualstudio.com/login)
 
 <br>
 
@@ -108,6 +110,13 @@ Make sure not to check any of the boxes to initiate it and click create.
 <img src ="./images/manageaccesscollab.jpg">
 
 Repeat step 2 until all the members of your hacker team have been invited to collaborate
+
+## :Computer: Instructions for Setting Up Visual Studio CodeSpaces ##
+
+The pre-requist for the hack was to 
+
+
+Visual Studio Codespaces provides you with a cloud-powered dev enviroment that you can access from anywhere. If you have not already created an environment / Server in which you can execute the hack challenges from 
 
 <!--
 ```bash
