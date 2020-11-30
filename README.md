@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Openhack Containers Envsetup" />
+  <img src="./images/openhackmain.jpg" alt="Openhack Containers Envsetup" />
 
   &#xa0;
 
