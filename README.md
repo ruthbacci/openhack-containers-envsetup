@@ -37,7 +37,7 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">GitHub</a> &#xa0; | &#xa0;
-    <a href="#checkered_flag-starting">VSO CodeSpaces</a> &#xa0; | &#xa0;
+  <a href="#computer">VSO CodeSpaces</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
 </p>
