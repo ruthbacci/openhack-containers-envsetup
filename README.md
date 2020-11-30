@@ -63,11 +63,12 @@ The following tools were used in this project:
 - [Visual Studio Codespaces](https://expo.io/) OR 
 - [Github Codespaces](https://github.com/codespaces) 
 
-
+<br>
 
 ## :white_check_mark: Requirements ##
 
 Before starting :checkered_flag:, you need to have a Github Account [GitHub Signup](https://github.com/join?).
+<br>
 
 
 
