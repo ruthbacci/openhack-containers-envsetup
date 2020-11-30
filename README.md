@@ -69,6 +69,8 @@ The following tools were used in this project:
 
 Before starting :checkered_flag:, you need to have a Github Account [GitHub Signup](https://github.com/join?).
 
+
+
 ## :checkered_flag: Create a new private repo and import the Container Hack Source Code ##
 
 1) Create a new repo.  For the repo name, use 'Teamx-OurContOH' - replacing 'x' with your team number.  
@@ -105,7 +107,7 @@ $ cd openhack-containers-envsetup
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with by <a href="https://github.com/ruthbacci" target="_blank">{{Ruth Bacci}</a>
 
 &#xa0;
 
