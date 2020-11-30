@@ -127,15 +127,23 @@ Follow the instructions below to setup your Visual Studio Codespace for the Cont
 
 <img src ="./images/vscslogin.jpg">
 
+<br>
+
 2) Once you have entered your credentials click 'Yes' to allow Visual Studio Codespaces to access your account info
 
 <img src ="./images/vscsacctinfo.jpg">
 
+<br>
+
 3) Once you have successfully logged into the Codespaces portal, select 'Create Codespace' and when prompted choose the identity that you logged on with. 
+
+<br>
 
 4) You will then be prompted to create a Billing Plan.  Leave the Subscription as the default (This creates an App Service Plan in Azure using the Azure Subscription that is associated with the account you have logged on with (if this is your hacker account, you each have access to an Azure Subscription through the duration of the hack - more about that in the hack!) and choose the location nearest to you geographically and Click 'Create'
 
 <img src ="./images/vscsbilling.jpg">
+
+<br>
 
 <!--
 ```bash
