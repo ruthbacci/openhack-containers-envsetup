@@ -71,9 +71,23 @@ Before starting :checkered_flag:, you need to have a Github Account [GitHub Sign
 
 ## :checkered_flag: Starting ##
 
-1) Create a new repo.  For the repo name, use 'Teamx-OurContOH' - replacing 'x' with your team number
+1) Create a new repo.  For the repo name, use 'Teamx-OurContOH' - replacing 'x' with your team number.  
 
-<img src ="./images/oh-create-repo1.jpg">
+*IMPORTANT* You MUST create this repo as a PRIVATE Repo and only ONE member of your hack team needs to perform this step (Everyone in the team will connect and work from the same repo)
+
+Make sure not to check any of the boxes to initiate it and click create. 
+
+<img src ="./images/oh-create-repo.jpg">
+
+2) Once the repo has been created, you will see the Quick Setup page, scroll to the bottom and click 'Import Code'
+
+<img src ="./images/ImportCode.jpg">
+
+3) In the field 'Your old repository's clone URL' enter the URL of the Containers Hack Repo : 'https://github.com/Azure-Samples/openhack-containers' and click on 'Begin Import'
+
+<img src ="./images/beginimport.jpg">
+
+
 
 <!--
 ```bash
