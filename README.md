@@ -96,9 +96,15 @@ Make sure not to check any of the boxes to initiate it and click create.
 
 ## :checkered_flag:  Grant your fellow hackers access to the repo ##
 
-1) Navigate to the 'Settings' area of your repo and click on 'Manage Access'
+1) Once you have created your private repo and imported the source code you now need to invite your hacker team collegues to collaborate to the repo with you. Navigate to the 'Settings' area of your repo and click on 'Manage Access'
 
 <img src ="./images/manageaccess.jpg">
+
+2) Ask the hacker for their GitHub Username and enter it into the Username field, then click on 'Invite <username> to this repository'
+
+<img src ="./images/manageaccesscollab.jpg">
+
+Repeat step 2 until all the members of your hacker team have been invited to collaborate
 
 <!--
 ```bash
