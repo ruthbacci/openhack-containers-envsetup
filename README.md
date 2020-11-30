@@ -36,7 +36,8 @@
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">GitHub</a> &#xa0; | &#xa0;
+    <a href="#checkered_flag-starting">VSO CodeSpaces</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
 </p>
@@ -72,7 +73,9 @@ Before starting :checkered_flag:, you need to have a Github Account [GitHub Sign
 
 
 
-## :checkered_flag: Create a new private repo and import the Container Hack Source Code ##
+## :checkered_flag: Instructions for Setting Up Github ##
+
+Follow the Instructions below to create a Private repository and copy the source code that you will need 
 
 1) Create a new repo.  For the repo name, use 'Teamx-OurContOH' - replacing 'x' with your team number.  
 
@@ -94,7 +97,7 @@ Make sure not to check any of the boxes to initiate it and click create.
 
 <br>
 
-## :checkered_flag:  Grant your fellow hackers access to the repo ##
+## Grant your fellow hackers access to the repo ##
 
 1) Once you have created your private repo and imported the source code you now need to invite your hacker team collegues to collaborate to the repo with you. Navigate to the 'Settings' area of your repo and click on 'Manage Access'
 
