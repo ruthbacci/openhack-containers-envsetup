@@ -73,7 +73,7 @@ Before starting :checkered_flag:, you need to have a Github Account [GitHub Sign
 
 1) Create a new repo.  For the repo name, use 'Teamx-OurContOH' - replacing 'x' with your team number
 
-![Creating the Repo](https://github.com/ruthbacci/openhack-containers-envsetup/blob/main/images/oh-create-repo.tif)
+![Creating the Repo](https://github.com/ruthbacci/openhack-containers-envsetup/blob/main/images/oh-create-repo.jpg)
 
 <!--
 ```bash
