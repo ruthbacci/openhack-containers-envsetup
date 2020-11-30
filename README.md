@@ -111,7 +111,7 @@ Make sure not to check any of the boxes to initiate it and click create.
 
 Repeat step 2 until all the members of your hacker team have been invited to collaborate
 
-## :Computer: Instructions for Setting Up Visual Studio CodeSpaces ##
+## :computer: Instructions for Setting Up Visual Studio CodeSpaces ##
 
 The pre-requist for the hack was to 
 
