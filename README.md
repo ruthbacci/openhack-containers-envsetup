@@ -96,6 +96,10 @@ Make sure not to check any of the boxes to initiate it and click create.
 
 ## :checkered_flag:  Grant your fellow hackers access to the repo ##
 
+1) Navigate to the 'Settings' area of your repo and click on 'Manage Access'
+
+<img src ="./images/manageaccess.jpg">
+
 <!--
 ```bash
 # Clone this project
