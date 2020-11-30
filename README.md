@@ -9,13 +9,13 @@
 <h1 align="center">Openhack Containers Envsetup</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/openhack-containers-envsetup?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/ruthbacci/openhack-containers-envsetup?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/openhack-containers-envsetup?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/ruthbacci/openhack-containers-envsetup?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/openhack-containers-envsetup?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ruthbacci/openhack-containers-envsetup?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/openhack-containers-envsetup?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/ruthbacci/openhack-containers-envsetup?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/openhack-containers-envsetup?color=56BEB8" /> -->
 
@@ -86,7 +86,7 @@ Make sure not to check any of the boxes to initiate it and click create.
 
 2) Once the repo has been created, you will see the Quick Setup page, scroll to the bottom and click 'Import Code'
 
-<img src ="./images/importcode.jpg">
+<img src ="./images/ImportCode.jpg">
 <br>
 
 3) In the field 'Your old repository's clone URL' enter the URL of the Containers Hack Repo : 'https://github.com/Azure-Samples/openhack-containers' and click on 'Begin Import'
@@ -105,13 +105,13 @@ $ cd openhack-containers-envsetup
 
 ```
 -->
-
+<br>
 ## :memo: License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with by <a href="https://github.com/ruthbacci" target="_blank">{{Ruth Bacci}</a>
+Made with by <a href="https://github.com/ruthbacci" target="_blank">Ruth Bacci</a>
 
 &#xa0;
 
