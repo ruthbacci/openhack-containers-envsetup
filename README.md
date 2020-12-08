@@ -36,8 +36,8 @@
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">GitHub</a> &#xa0; | &#xa0;
-  <a href="#computer">VSO CodeSpaces</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">GitHub Instructions</a> &#xa0; | &#xa0;
+  <a href="#computer">VSO CodeSpaces Instructions</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
 </p>
@@ -46,11 +46,11 @@
 
 ## :dart: About ##
 
-This readme file explains how to get the Source Code repository set up for the Microsoft Containers Hack.  It is mandated that a PRIVATE Github repository is created by a participant in every hack team and all other participants work locally and contribute to this central private repository. 
+This readme file explains how to get the source code repository set up for the Microsoft Containers Hack.  It is mandated that a PRIVATE Github repository is created by a single participant in every hack team and all other participants work locally and contribute to this central private repository. 
 
 Each hack particpiant will contribute directly to this repository, rather than clone it.
 
-In addition, if you don't already have an environment setup to execute the hack from, you will find the instructions on how to set up a Visual Studio Codespace to execute all of the hack challenges from. 
+In addition, if you do not already have an environment setup to execute the hack from, you will find the instructions on how to set up a Visual Studio Codespace to execute all of the hack challenges from. 
 
 <!--## :sparkles: Features ##
 
@@ -77,18 +77,18 @@ Before starting :checkered_flag:, you need to have a Github Account [GitHub Sign
 
 ## :checkered_flag: Instructions for Setting Up Github ##
 
-Follow the Instructions below to create a Private repository and copy the source code that you will need 
+Follow the Instructions below to create a private repository and copy the source code that you will need :
 
 1) Create a new repo.  For the repo name, use 'Teamx-OurContOH' - replacing 'x' with your team number.  
 
-*IMPORTANT* You MUST create this repo as a PRIVATE Repo and only ONE member of your hack team needs to perform this step (Everyone in the team will connect and work from the same repo)
+*IMPORTANT* You MUST create this repo as a PRIVATE repo and only ONE member of your hack team needs to perform this step (everyone in the team will connect and work from the same repo)
 
 Make sure not to check any of the boxes to initiate it and click create. 
 
 <img src ="./images/oh-create-repo.jpg">
 <br>
 
-2) Once the repo has been created, you will see the Quick Setup page, scroll to the bottom and click 'Import Code'
+2) Once the repo has been created, you will see the 'Quick Setup' page, scroll to the bottom and click 'Import Code'
 
 <img src ="./images/ImportCode.jpg">
 <br>
@@ -116,7 +116,7 @@ Repeat step 2 until all the members of your hacker team have been invited to col
 
 ## :computer:  Instructions for Setting Up Visual Studio CodeSpaces ##
 
-The pre-requist for the hack is to ensure that you have access to an environment with AZ CLI; Bash; Docker; Kubectl; Helm & Git.   If you do not have access to environment in which you can run the above tooling when starting the hack then it is best that you opt for using Visual Studio Codespaces.
+The pre-requist for the hack is to ensure that you have access to an environment with AZ CLI; Bash; Docker; Kubectl; Helm & Git.   If you do not have access to an environment in which you can run the above tooling when starting the hack then it is best that you opt for using Visual Studio Codespaces.
 
 
 Visual Studio Codespaces provides you with a cloud-powered dev enviroment that you can access from anywhere. Once logged on to Codespaces, it will provide you with an online vresion of Visual Studio Code, from which you can access the repository you created above and all the tools you require.   Visual Studio Codespaces Online will shortly be replaced with GitHub Codespaces.  You can read more here: https://devblogs.microsoft.com/visualstudio/visual-studio-codespaces-is-consolidating-into-github-codespaces/
@@ -142,28 +142,28 @@ Follow the instructions below to setup your Visual Studio Codespace for the Cont
 <br>
 <br>
 
-4) You will then be prompted to create a Billing Plan.  Leave the Subscription as the default (This creates an App Service Plan in Azure using the Azure Subscription that is associated with the account you have logged on with (if this is your hacker account, you each have access to an Azure Subscription through the duration of the hack - more about that in the hack!) and choose the location nearest to you geographically and Click 'Create'
+4) You will then be prompted to create a Billing Plan.  Leave the Subscription as the default (this creates an App Service Plan in Azure using the Azure Subscription that is associated with the account you have logged on with (if this is your hacker account, you each have access to an Azure Subscription throughout the duration of the hack - more about that in the hack!) and choose the location nearest to you geographically and Click 'Create'
 
 <img src ="./images/vscsbilling.jpg">
 
 <br>
 <br>
 
-5) Once the billing plan has been established you will be prompted for the Codespace configuration. Provide a name for your Codespace (this can be any name in which you identity your project codespace), and provide the URL for the GitHub repository your team created for the hack above.  Leave the rest as the default and click 'Auth & Create'
+5) Once the billing plan has been established you will be prompted for the Codespace configuration. Provide a name for your Codespace (this can be any name in which you identify your project codespace), and provide the URL for the GitHub repository your team created for the hack above.  Leave the rest as the default and click 'Auth & Create'
 
 <img src ="./images/vscsauthncreate.jpg">
 
 <br>
 <br>
 
-6) When promtped for GitHub credentials, provide the credential that was granted access to the repository you created above (NOTE: It is fine if this is different to the credential you logged on to Codespaces with).  If you are using your own perosnal GitHub account (rather than a hacker account), you maybe promted for two factor authentication (if this has been enabled on your account)
+6) When promtped for GitHub credentials, provide the credential that was granted access to the repository you created above (NOTE: It is fine if this is different to the credential you logged on to Codespaces with).  If you are using your own perosnal GitHub account (rather than a hacker account), you maybe prompted for two factor authentication (if this has been enabled on your account)
 
 <img src ="./images/vscsghlogin.jpg">
 
 <br>
 <br>
 
-7) Once your Codespace is authenticated to use the provided GitHub repo, Visual Studio Online will begin to create your Code Space - This can take up to 15 mins. 
+7) Once your Codespace has authenticated to the provided GitHub repo, Visual Studio Online will begin to create your Code Space - This can take up to 15 mins. 
 
 Once the setup is complete you will see an online version of Visual Studio Code
 
